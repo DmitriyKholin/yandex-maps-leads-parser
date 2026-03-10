@@ -1,4 +1,16 @@
+# Окружение
 venv/
-__pycache__/
+Scripts/
+Lib/
+include/
+pyvenv.cfg
+
+# IDE
+.idea/
+.gigaide/
+*.iml
+
+# Данные и логи
 logs/
 *.xlsx
+CACHEDIR.TAG
